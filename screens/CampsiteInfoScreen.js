@@ -130,13 +130,13 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         backgroundColor: '#fff',
         fontSize: 16,
-        fontweight: 'bold',
+        fontWeight: 'bold',
         color: '#43484D',
         padding: 10,
         paddingTop: 30
     },
     commentItem: {
-        paddingvertical: 10,
+        paddingVertical: 10,
         paddingHorizontal: 20,
         backgroundColor: '#fff'
     },
